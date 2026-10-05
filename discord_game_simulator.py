@@ -13,7 +13,7 @@ Características destacadas:
 - Ventana HUD animada (25-30 FPS) que garantiza que las misiones de streaming de Discord no se pausen por inactividad.
 - Cronómetro y barra de progreso de 15 minutos con sonido y notificación al finalizar.
 - Autolimpieza de archivos temporales al cerrar.dwwwwwwwwwwwwwdwdwd
-"""dw
+"""
 
 import sys
 import os
